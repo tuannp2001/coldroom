@@ -9,7 +9,6 @@ Nous utilisons plusieurs approches :
 - **Modèles hybrides PIML** (Physics-Informed Machine Learning : PINN, NNiSS, NNrSS) qui combinent équations physiques et apprentissage automatique.
 - À terme, des techniques d’**incertitude** et **Conformal Prediction** pour obtenir des intervalles de prédiction fiables.
 
-L’objectif final est de disposer d’un outil capable de prédire les températures (air, eau…) en free-run 
 ---
 
 ## Structure du projet
